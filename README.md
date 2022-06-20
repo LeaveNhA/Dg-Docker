@@ -5,7 +5,7 @@
 To build from source:
 
 ``` sh
-docker build -t leavenha/dg-lang:latest https://github.com/LeaveNhA/Dg-Docker.git\#main
+docker build -t leavenha/dg-lang:latest https://github.com/LeaveNhA/Dg-Docker.git\#python-3.7
 ```
 
 ## Run from Build

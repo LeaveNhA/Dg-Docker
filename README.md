@@ -13,5 +13,5 @@ docker build -t leavenha/dg-lang:latest https://github.com/LeaveNhA/Dg-Docker.gi
 To run from build:
 
 ``` sh
-docker run -it --rm -p 8888:8888 leavenha/dg-lang
+docker run -it --rm leavenha/dg-lang
 ```

@@ -2,6 +2,10 @@
 
 ## Build from source
 
+This Branch is build on top of Python-3.6. This is (my personal) base for Dg language.
+
+If you prefer to use Python-3.7 please see the `Python-3.7` branch.
+
 To build from source:
 
 ``` sh
